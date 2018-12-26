@@ -27,5 +27,5 @@
     "node_modules",
     "dist",
   ],
-  "compileOnSave": false
+  "compileOnSave": true
 }

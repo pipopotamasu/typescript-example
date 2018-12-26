@@ -1,1 +1,0 @@
-import "./src/hoge.ts";
